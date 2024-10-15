@@ -9,9 +9,9 @@ After that go to the directory which you have the file in
 ```
 cd your directory
 ```
-Then start the char counter file
+Then start the message length file
 ```
-node chat-counter.js
+node message-length.js
 ```
 Then enter your message and press Enter
 Ik its useles

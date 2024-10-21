@@ -14,4 +14,4 @@ Then start the message length file
 node message-length.js
 ```
 Then enter your message and press Enter
-Ik its useles
+Ik its useless
